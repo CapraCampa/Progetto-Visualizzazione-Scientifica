@@ -20,6 +20,8 @@ https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0810HEA,1.0/HEA
 Dati sul numero di medici per ogni paese **2022**
 https://data.oecd.org/healthres/doctors.htm
 
+COnfronto su numero medici nei paesi (normalizzato)
+
 Dati sui laureati **2021** medicina per regione
 https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0820EDU,1.0/UNIVERSITY/IT1,56_190_DF_DCIS_LAUREATI_1,1.0
 
@@ -28,13 +30,24 @@ https://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-health-st
 
 Dati sulla quantità di personale medico proveniente dall'estero (specificando per ciascun paese di origine) per ogni paese **2011-2021**
 (https://stats.oecd.org/index.aspx?lang=en)
-Ma qual è la differenza tra Stock e Annual inflow nei dati? Se non fossi troppo stanca potrei capirlo leggendo qua: [file:///C:/Users/Utente/Downloads/HEALTH_WFMI_1_Foreign-trained%20doctors.pdf](https://stats.oecd.org/wbos/fileview2.aspx?IDFile=0b10c60d-8a48-4b5f-900a-8f0f6c05f115)
+
+Personale medico italiano a Dubai (UAE)
 
 Dati economici molto complicati sulle spese del governo in ambito medico **2023**
 (Eventualmente anche **2017-2022**)
 https://bdap-opendata.rgs.mef.gov.it/tema/sanit%C3%A0
 
+Personale medico privato/pubblico
+https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.salute.gov.it%2Fimgs%2FC_17_pubblicazioni_3425_0_alleg.xlsx&wdOrigin=BROWSELINK
+
 ## Link utili da approfondire
+Un po' di idee:
+https://www.salute.gov.it/imgs/C_17_pubblicazioni_3425_allegato.pdf
+
+
+
+
+
 https://www.almalaurea.it/i-dati/tutti-i-dati
 
 https://esploradati.istat.it/databrowser/#/it/dw/categories
