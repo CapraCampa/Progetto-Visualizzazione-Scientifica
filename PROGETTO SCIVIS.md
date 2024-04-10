@@ -44,6 +44,12 @@ https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.salute.gov.i
 Un po' di idee:
 https://www.salute.gov.it/imgs/C_17_pubblicazioni_3425_allegato.pdf
 
+### Tabelle utili
+- ASS_DIS_STS_01
+- ASS_OSP_STR_10
+- T_Anzianità_MMG
+- T_Amb_Lab
+
 
 
 
