@@ -77,6 +77,10 @@ https://data.oecd.org/
 Sindacato Medici
 https://www.anaao.it/index_list.php?cat=154
 
+## Palette colori
+https://coolors.co/eaeaf2-083d77-3f826d-de9151-212227
+(colorblind friendly)
+
 ## Scaletta presentazione
 **Domanda centrale**: è vero che la qualità della sanità _pubblica_ in Italia è peggiorata nel tempo? 
 (Numero posti letto, <del>tempo di attesa eccessivo in pronto soccorso</del>, morti per causa aumentato?, stato di salute in italia?, mancanza di personale,ci sono specialità in cui mancano soprattutto di medici in Italia?)
