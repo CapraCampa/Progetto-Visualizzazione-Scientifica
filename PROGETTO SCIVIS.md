@@ -40,8 +40,15 @@ Dati economici molto complicati sulle spese del governo in ambito medico **2023*
 (Eventualmente anche **2017-2022**)
 https://bdap-opendata.rgs.mef.gov.it/tema/sanit%C3%A0
 
+Dati economici più semplici - RAPPORTO OASI23:
+https://cergas.unibocconi.eu/oasi-2023
+
 Personale medico privato/pubblico
 https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.salute.gov.it%2Fimgs%2FC_17_pubblicazioni_3425_0_alleg.xlsx&wdOrigin=BROWSELINK
+
+Dati sulla aspettativa di vita
+Nota di aggiornamento al DEF
+Tempi di attesa?
 
 ## Link utili da approfondire
 Un po' di idee:
