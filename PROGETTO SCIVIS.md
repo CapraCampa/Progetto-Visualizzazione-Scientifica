@@ -1,5 +1,20 @@
 # PROGETTO SCIVIS
 
+## Datasets non più utilizzati
+
+Cause di morte - per regione **2021**:
+https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0810HEA,1.0/HEA_DEATH/DCIS_CMORTE1_EV/IT1,39_493_DF_DCIS_CMORTE1_EV_1,1.0
+
+Stato di salute - per regione **2021**:
+https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0810HEA,1.0/HEA_HESTDRUGS/HEA_HESTDRUGS_HEST/IT1,83_63_DF_DCCV_AVQ_PERSONE_208,1.0
+
+Dati sulla quantità di personale medico proveniente dall'estero (generico) per ogni paese **2010-2022**
+https://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-health-statistics/health-workforce-migration_1497601f-en
+
+Dati economici molto complicati sulle spese del governo in ambito medico **2023**
+(Eventualmente anche **2017-2022**)
+https://bdap-opendata.rgs.mef.gov.it/tema/sanit%C3%A0
+
 ## Datasets
 
 Dati sulla qualità della sanità in italia (Hospital beds, Current health expenditure):
@@ -8,11 +23,13 @@ https://data.humdata.org/dataset/world-bank-health-indicators-for-italy
 Posti letto per struttura ospedaliera **2020**:
 https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=114
 
-Cause di morte - per regione **2021**:
-https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0810HEA,1.0/HEA_DEATH/DCIS_CMORTE1_EV/IT1,39_493_DF_DCIS_CMORTE1_EV_1,1.0
-
-Stato di salute - per regione **2021**:
-https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0810HEA,1.0/HEA_HESTDRUGS/HEA_HESTDRUGS_HEST/IT1,83_63_DF_DCCV_AVQ_PERSONE_208,1.0
+Strutture pubbliche e accreditate **2022**:
+https://www.salute.gov.it/imgs/C_17_pubblicazioni_3425_allegato.pdf
+- ASS_DIS_STS_01
+- ASS_OSP_STR_10
+- T_Anzianità_MMG
+- T_Amb_Lab
+- ASS_DIS_RIA_02 
 
 Dati sulla distribuzione del personale medico **2021**
 https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0810HEA,1.0/HEA_SERVICES/IT1,43_973_DF_DCIS_PERS_SANIT_1,1.0
@@ -23,51 +40,31 @@ https://data.oecd.org/healthres/doctors.htm
 Dati sul numero di medici per ogni paese **2018-2022**
 https://data-explorer.oecd.org/?fs[0]=Topic%2C0%7CHealth%23HEA%23&pg=0&fc=Topic&bp=true&snb=47
 
-COnfronto su numero medici nei paesi (normalizzato)
+Confronto su numero medici nei paesi (normalizzato)
 
 Dati sui laureati **2021** medicina per regione
 https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0820EDU,1.0/UNIVERSITY/IT1,56_190_DF_DCIS_LAUREATI_1,1.0
 
-Dati sulla quantità di personale medico proveniente dall'estero (generico) per ogni paese **2010-2022**
-https://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-health-statistics/health-workforce-migration_1497601f-en
-
 Dati sulla quantità di personale medico proveniente dall'estero (specificando per ciascun paese di origine) per ogni paese **2011-2021**
-(https://stats.oecd.org/index.aspx?lang=en)
+https://stats.oecd.org/index.aspx?lang=en
+oppure
+https://stats.oecd.org/viewhtml.aspx?datasetcode=HEALTH_WFMI&lang=en#
 
-Personale medico italiano a Dubai (UAE)
+Liberi-professionisti o Dipendenti nel Privato o all’Estero 2023:
+https://www.quotidianosanita.it/allegati/allegato1706516922.pdf
 
-Dati economici molto complicati sulle spese del governo in ambito medico **2023**
-(Eventualmente anche **2017-2022**)
-https://bdap-opendata.rgs.mef.gov.it/tema/sanit%C3%A0
+Spesa sanitaria nazionake **2012-2022**:
+https://openbdap.rgs.mef.gov.it/it/SSN/Analizza
 
-Dati economici più semplici - RAPPORTO OASI23:
-https://cergas.unibocconi.eu/oasi-2023
-
-Personale medico privato/pubblico
-https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.salute.gov.it%2Fimgs%2FC_17_pubblicazioni_3425_0_alleg.xlsx&wdOrigin=BROWSELINK
+Salario personale medico **2010-2021**:
+https://stats.oecd.org/index.aspx?queryid=30025
 
 Dati sulla aspettativa di vita
 Nota di aggiornamento al DEF
 Tempi di attesa?
 
-Liberi-professionisti o Dipendenti nel Privato o all’Estero 2023:
-https://www.quotidianosanita.it/allegati/allegato1706516922.pdf
-
 ## Link utili da approfondire
 Un po' di idee:
-https://www.salute.gov.it/imgs/C_17_pubblicazioni_3425_allegato.pdf
-
-### Tabelle utili
-- ASS_DIS_STS_01
-- ASS_OSP_STR_10
-- T_Anzianità_MMG
-- T_Amb_Lab
-- ASS_DIS_RIA_02 
-
-
-
-
-
 
 https://www.almalaurea.it/i-dati/tutti-i-dati
 
@@ -77,8 +74,6 @@ https://www.quotidianosanita.it/allegati/allegato1678174077.png
 sito dove cercare database per tabella sopracitata
 https://data.oecd.org/
 
-Sindacato Medici
-https://www.anaao.it/index_list.php?cat=154
 
 ## Palette colori
 https://coolors.co/eaeaf2-083d77-3f826d-de9151-212227
