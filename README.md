@@ -1,15 +1,11 @@
-# PROGETTO SCIVIS
+# Progetto Visualizzazione scientifica
 
-## Datasets non più utilizzati
+Progetto di visualizzazione scientifica di:
+- 03140A Valeria De Stasio
+- 01613A Alessandro Bordonali
 
-Dati sul numero di medici per ogni paese **2022**
-https://data.oecd.org/healthres/doctors.htm
+In questa presentazione analizziamo la situazione della sanità pubblica in Italia negli ultimi 10 anni, cercando di verificare se essa, come si sente sempre più spesso dire, è davvero peggiorata negli anni. Nel caso l'ipotesi si verifichi corretta cercheremo anche di analizzare le possibili cause che ne stanno alla base.
 
-Dati sul numero di medici per ogni paese **2018-2022**
-https://data-explorer.oecd.org/?fs[0]=Topic%2C0%7CHealth%23HEA%23&pg=0&fc=Topic&bp=true&snb=47
-
-Liberi-professionisti o Dipendenti nel Privato o all’Estero 2023:
-https://www.quotidianosanita.it/allegati/allegato1706516922.pdf
 
 ## Datasets
 
@@ -74,3 +70,6 @@ http://data.un.org/
 ## Palette colori
 https://coolors.co/eaeaf2-083d77-3f826d-de9151-212227
 (colorblind friendly)
+
+## Scaletta presentazione
+
