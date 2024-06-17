@@ -2,18 +2,14 @@
 
 ## Datasets non più utilizzati
 
-Cause di morte - per regione **2021**:
-https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0810HEA,1.0/HEA_DEATH/DCIS_CMORTE1_EV/IT1,39_493_DF_DCIS_CMORTE1_EV_1,1.0
+Dati sul numero di medici per ogni paese **2022**
+https://data.oecd.org/healthres/doctors.htm
 
-Stato di salute - per regione **2021**:
-https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0810HEA,1.0/HEA_HESTDRUGS/HEA_HESTDRUGS_HEST/IT1,83_63_DF_DCCV_AVQ_PERSONE_208,1.0
+Dati sul numero di medici per ogni paese **2018-2022**
+https://data-explorer.oecd.org/?fs[0]=Topic%2C0%7CHealth%23HEA%23&pg=0&fc=Topic&bp=true&snb=47
 
-Dati sulla quantità di personale medico proveniente dall'estero (generico) per ogni paese **2010-2022**
-https://www.oecd-ilibrary.org/social-issues-migration-health/data/oecd-health-statistics/health-workforce-migration_1497601f-en
-
-Dati economici molto complicati sulle spese del governo in ambito medico **2023**
-(Eventualmente anche **2017-2022**)
-https://bdap-opendata.rgs.mef.gov.it/tema/sanit%C3%A0
+Liberi-professionisti o Dipendenti nel Privato o all’Estero 2023:
+https://www.quotidianosanita.it/allegati/allegato1706516922.pdf
 
 ## Datasets
 
@@ -42,7 +38,8 @@ https://www.salute.gov.it/imgs/C_17_pubblicazioni_3425_allegato.pdf
 - ASS_DIS_STS_01
 *POSTI LETTO PREVISTI NELLE STRUTTURE DI RICOVERO PUBBLICHE E POSTI LETTO ACCREDITATI
 Per le strutture pubbliche comprende: Day Hospital,Day Surgery, Degenza Ordinaria, Degenza a Pagamento
-Per le strutture private accreditate comprende: Day Hospital,Day Surgery, Degenza Ordinaria*
+Per le strutture private accreditate comprende: Day Hospital,Day Surgery, Degenza Ordinaria
+Esempio di struttura privata accreditata con posti letto: Multimedica di Milano*
 - ASS_OSP_STR_10
 *AMBULATORI E LABORATORI : Strutture che erogano attività specialistiche (cliniche, di laboratorio e di diagnostica strumentale),
 confronto sempre tra pubblici e privati accreditati*
@@ -51,61 +48,29 @@ confronto sempre tra pubblici e privati accreditati*
 - ASS_DIS_RIA_01 
 
 
-- ASS_DIS_RIA_02
-
-
-
-Dati sulla distribuzione del personale medico **2021**
+Dati sulla distribuzione del personale medico:
 https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0810HEA,1.0/HEA_SERVICES/IT1,43_973_DF_DCIS_PERS_SANIT_1,1.0
 
-Dati sul numero di medici per ogni paese **2022**
-https://data.oecd.org/healthres/doctors.htm
+Dati sui laureati in medicina per regione:
+https://dati-ustat.mur.gov.it/dataset/laureati
 
-Dati sul numero di medici per ogni paese **2018-2022**
-https://data-explorer.oecd.org/?fs[0]=Topic%2C0%7CHealth%23HEA%23&pg=0&fc=Topic&bp=true&snb=47
+OECD - "HEALTH CARE RESOURCES":
+"Physicians by age and gender":
+ https://stats.oecd.org/viewhtml.aspx?datasetcode=HEALTH_REAC&lang=en#
+"Remuneration of health professionals":
+https://stats.oecd.org/index.aspx?queryid=30025
+"Health workforce migration":
+ https://stats.oecd.org/viewhtml.aspx?datasetcode=HEALTH_WFMI&lang=en#
 
-Confronto su numero medici nei paesi (normalizzato)
 
-Dati sui laureati **2021** medicina per regione
-
-
-Dati sulla quantità di personale medico proveniente dall'estero (specificando per ciascun paese di origine) per ogni paese **2011-2021**
-https://stats.oecd.org/index.aspx?lang=en
-oppure
-https://stats.oecd.org/viewhtml.aspx?datasetcode=HEALTH_WFMI&lang=en#
-
-Liberi-professionisti o Dipendenti nel Privato o all’Estero 2023:
-https://www.quotidianosanita.it/allegati/allegato1706516922.pdf
-
-Spesa sanitaria nazionake **2012-2022**:
+Spesa sanitaria nazionale:
 https://openbdap.rgs.mef.gov.it/it/SSN/Analizza
 
-Salario personale medico **2010-2021**:
-https://stats.oecd.org/index.aspx?queryid=30025
+Dati sulla percentuale di PIL investita nella sanità per ogni paese:
+http://data.un.org/
 
-Dati sulla aspettativa di vita
-Nota di aggiornamento al DEF
-Tempi di attesa?
-
-## Link utili da approfondire
-Un po' di idee:
-
-https://www.almalaurea.it/i-dati/tutti-i-dati
-
-https://esploradati.istat.it/databrowser/#/it/dw/categories
-tabella emigrazione medici
-https://www.quotidianosanita.it/allegati/allegato1678174077.png
-sito dove cercare database per tabella sopracitata
-https://data.oecd.org/
 
 
 ## Palette colori
 https://coolors.co/eaeaf2-083d77-3f826d-de9151-212227
 (colorblind friendly)
-
-## Scaletta presentazione
-**Domanda centrale**: è vero che la qualità della sanità _pubblica_ in Italia è peggiorata nel tempo? 
-(Numero posti letto, <del>tempo di attesa eccessivo in pronto soccorso</del>, morti per causa aumentato?, stato di salute in italia?, mancanza di personale,ci sono specialità in cui mancano soprattutto di medici in Italia?)
-E se è vero, per quale motivo?
-(Sono pochi i laureati in medicina o sono molti i laureati che si trasferiscono all'estero? Quali sono i motivi? Lo stato non investe a sufficienza? Gli orari massacranti? Poca tutela rispetto agli altri paesi? )
-
