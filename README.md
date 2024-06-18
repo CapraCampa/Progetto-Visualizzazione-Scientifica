@@ -1,6 +1,6 @@
 # Progetto Visualizzazione scientifica
 
-**ATTENZIONE:** A causa della mancata esposizione le slide risultano più discorsive di quanto sarebbe state altrimenti.
+**Nota bene:** A causa della mancata esposizione le slide risultano più discorsive di quanto sarebbe state altrimenti.
 
 Progetto di visualizzazione scientifica di:
 - 03140A Valeria De Stasio
