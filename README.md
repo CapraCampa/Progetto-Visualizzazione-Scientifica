@@ -22,15 +22,11 @@ https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=114
 
 Strutture pubbliche e accreditate:
 https://www.salute.gov.it/imgs/C_17_pubblicazioni_3425_allegato.pdf
-*AMBULATORI E LABORATORI : Strutture che erogano attività specialistiche (cliniche, di laboratorio e di diagnostica strumentale)*
-ASS_DIS_STS_01
-*Posti letto previsti nelle strutture di ricovero pubbliche e posti letto accreditati*
-ASS_OSP_STR_10
-*AMBULATORI E LABORATORI : Strutture che erogano attività specialistiche (cliniche, di laboratorio e di diagnostica strumentale),
-confronto sempre tra pubblici e privati accreditati*
-T_Amb_Lab
-*Questo dato invece si riferisce alla differenza tra strutture pubbliche e strutture private*
-ASS_DIS_RIA_01 
+- *AMBULATORI E LABORATORI* (ASS_DIS_STS_01): Strutture che erogano attività specialistiche (cliniche, di laboratorio e di diagnostica strumentale)
+- *Posti letto previsti nelle strutture di ricovero pubbliche e posti letto accreditati* (ASS_OSP_STR_10)
+- *AMBULATORI E LABORATORI* (T_Amb_Lab): Strutture che erogano attività specialistiche (cliniche, di laboratorio e di diagnostica strumentale),
+confronto sempre tra pubblici e privati accreditati
+- *Questo dato si riferisce alla differenza tra strutture pubbliche e strutture private accreditate* (ASS_DIS_RIA_01)
 
 Dati sulla distribuzione del personale medico:
 https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0810HEA,1.0/HEA_SERVICES/IT1,43_973_DF_DCIS_PERS_SANIT_1,1.0
@@ -42,12 +38,9 @@ Dati sui laureati in medicina per regione:
 https://dati-ustat.mur.gov.it/dataset/laureati
 
 OECD - "HEALTH CARE RESOURCES":
-"Physicians by age and gender":
- https://stats.oecd.org/viewhtml.aspx?datasetcode=HEALTH_REAC&lang=en#
-"Remuneration of health professionals":
-https://stats.oecd.org/index.aspx?queryid=30025
-"Health workforce migration":
- https://stats.oecd.org/viewhtml.aspx?datasetcode=HEALTH_WFMI&lang=en#
+- "Physicians by age and gender": https://stats.oecd.org/viewhtml.aspx?datasetcode=HEALTH_REAC&lang=en#
+- "Remuneration of health professionals": https://stats.oecd.org/index.aspx?queryid=30025
+- "Health workforce migration": https://stats.oecd.org/viewhtml.aspx?datasetcode=HEALTH_WFMI&lang=en#
 
 Spesa sanitaria nazionale:
 https://openbdap.rgs.mef.gov.it/it/SSN/Analizza
