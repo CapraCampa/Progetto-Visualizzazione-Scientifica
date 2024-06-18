@@ -8,11 +8,12 @@ Progetto di visualizzazione scientifica di:
 
 In questa presentazione analizziamo la situazione della sanità pubblica in Italia negli ultimi 10 anni, cercando di verificare se essa, come si sente sempre più spesso dire, è davvero peggiorata negli anni. Nel caso l'ipotesi si verifichi corretta cercheremo anche di analizzare le possibili cause che ne stanno alla base.
 
+Link alla presentazione google slides: https://docs.google.com/presentation/d/1QjscMvZx6AEX1HTqW6XZQ5I9XLPhC9-WPIQgxmM74gk/edit?usp=sharing
 
 ## Datasets
 
-*"**Total hospital beds** include curative (or acute) care beds, rehabilitative care beds, long-term care beds and other beds in hospitals. The indicator is presented as a total and for curative care and psychiatric care. It is measured in number of beds per 1 000 inhabitants."*
-Dati sulla qualità della sanità in italia (**Hospital beds**, Current health expenditure):
+***Total hospital beds** include curative (or acute) care beds, rehabilitative care beds, long-term care beds and other beds in hospitals.*
+Dati sulla qualità della sanità in italia (**Hospital beds**):
 https://data.humdata.org/dataset/world-bank-health-indicators-for-italy
 
 *Il data-set contiene i dati relativi ai posti letto delle strutture ospedaliere pubbliche ed equiparate, e ai posti letto per l'attività accreditata delle case di cura private accreditate, al 1° gennaio dell'anno di riferimento.*
@@ -21,21 +22,21 @@ https://www.dati.salute.gov.it/dati/dettaglioDataset.jsp?menu=dati&idPag=114
 
 Strutture pubbliche e accreditate:
 https://www.salute.gov.it/imgs/C_17_pubblicazioni_3425_allegato.pdf
--*AMBULATORI E LABORATORI : Strutture che erogano attività specialistiche (cliniche, di laboratorio e di diagnostica strumentale)*
-- ASS_DIS_STS_01
-*POSTI LETTO PREVISTI NELLE STRUTTURE DI RICOVERO PUBBLICHE E POSTI LETTO ACCREDITATI
-Per le strutture pubbliche comprende: Day Hospital,Day Surgery, Degenza Ordinaria, Degenza a Pagamento
-Per le strutture private accreditate comprende: Day Hospital,Day Surgery, Degenza Ordinaria
-Esempio di struttura privata accreditata con posti letto: Multimedica di Milano*
-- ASS_OSP_STR_10
+*AMBULATORI E LABORATORI : Strutture che erogano attività specialistiche (cliniche, di laboratorio e di diagnostica strumentale)*
+ASS_DIS_STS_01
+*Posti letto previsti nelle strutture di ricovero pubbliche e posti letto accreditati*
+ASS_OSP_STR_10
 *AMBULATORI E LABORATORI : Strutture che erogano attività specialistiche (cliniche, di laboratorio e di diagnostica strumentale),
 confronto sempre tra pubblici e privati accreditati*
-- T_Amb_Lab
+T_Amb_Lab
 *Questo dato invece si riferisce alla differenza tra strutture pubbliche e strutture private*
-- ASS_DIS_RIA_01 
+ASS_DIS_RIA_01 
 
 Dati sulla distribuzione del personale medico:
 https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,Z0810HEA,1.0/HEA_SERVICES/IT1,43_973_DF_DCIS_PERS_SANIT_1,1.0
+
+Dati sulla popolazione italiana per regione:
+https://esploradati.istat.it/databrowser/#/it/dw/categories/IT1,POP,1.0/POP_POPULATION/DCIS_POPRES1/IT1,22_289_DF_DCIS_POPRES1_1,1.0
 
 Dati sui laureati in medicina per regione:
 https://dati-ustat.mur.gov.it/dataset/laureati
